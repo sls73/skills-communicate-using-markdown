@@ -6,3 +6,5 @@
 ###### This is an H6 header
 
 ![Image of Femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
+
+`print("This is an example of a code quote.")`
