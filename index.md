@@ -8,5 +8,7 @@
 ![Image of Femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 
 ```
-print("This is an example of a code block.")
+print("This is a code block.")
 ```
+- [x] This is a complete task list item.
+- [ ] This is an incomplete task list item.
