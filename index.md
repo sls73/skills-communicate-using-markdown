@@ -7,4 +7,6 @@
 
 ![Image of Femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 
-`print("This is an example of a code quote.")`
+```
+print("This is an example of a code block.")
+```
